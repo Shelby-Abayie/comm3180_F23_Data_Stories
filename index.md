@@ -13,4 +13,8 @@
     * Step 2: commit it
     * Step 3: push it 
     * Step 4: everytime you make a change you have to do the whole process over again
-    * Step 5: to get to the website shelby-abayie.github.io/comm3180_Data_Stories 
+    * Step 5: to get to the
+    [website](shelby-abayie.github.io/comm3180_Data_Stories)
+    * to create a link: [word] (hyperlink) 
+        * then the word in square brackets will be hyper linked 
+    
